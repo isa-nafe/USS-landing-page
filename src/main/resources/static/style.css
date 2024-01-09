@@ -1,3 +1,4 @@
+/* Existing CSS */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -37,4 +38,16 @@ body {
 
 h1 {
     margin: 0;
+}
+
+/* Existing img styles */
+img {
+    width: 200px;
+}
+
+/* New CSS for the logo */
+.logo {
+    position: relative; /* Adjust this value as needed to move the logo up */
+    bottom: 50px;
+    
 }
